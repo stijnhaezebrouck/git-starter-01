@@ -1,6 +1,6 @@
 line 1
 line 2
 line 3
-line 4
+line 4 <== modified in commit C
 line 5
 line 6
