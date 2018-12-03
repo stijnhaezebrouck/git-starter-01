@@ -3,4 +3,4 @@ line 2 <== modified in commit B
 line 3
 line 4
 line 5
-line 6
+line 6 <== modified in commit D
